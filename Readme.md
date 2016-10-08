@@ -11,4 +11,5 @@ Do `sudo apt-get install python3-scipy python3-pyaudio python3-numpy` if you're 
 
 Explanations
 ------------
-[https://docs.google.com/presentation/d/176FNF8vqmIDAM2jhVQwE8JTuCPrk7J9NfRw2XrHGxl8/edit?usp=sharing](Presentation (in french))
+Presentation (in french)
+https://docs.google.com/presentation/d/176FNF8vqmIDAM2jhVQwE8JTuCPrk7J9NfRw2XrHGxl8/edit?usp=sharing
